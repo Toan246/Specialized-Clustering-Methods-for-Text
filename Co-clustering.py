@@ -1,7 +1,6 @@
 import numpy as np
 from sklearn.cluster import SpectralCoclustering
 from sklearn.feature_extraction.text import CountVectorizer
-import matplotlib.pyplot as plt
 
 # Dữ liệu ví dụ
 documents = [
